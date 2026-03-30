@@ -4,7 +4,7 @@
 
 # Hi there, I'm Lyle Solomons👋
 
-| 📧230123872@mycput.ac.za | [LinkedIn Profile](https://www.linkedin.com/in/lyle-solomons-9ab855296 ) | Western Cape, Cape Town, 7100 |
+| 230123872@mycput.ac.za | [LinkedIn Profile](https://www.linkedin.com/in/lyle-solomons-9ab855296 ) | Western Cape, Cape Town, 7100 |
 
 ## 🎯 Career Overview
 I am a 3rd year Application Development student at CPUT looking for a Work Integrated Learning opportunity where I can apply the technical skills I have developed through my studies in real world environments. I am eager to learn from industry professionals and grow as an ICT professional.
