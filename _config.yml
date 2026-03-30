@@ -1,1 +1,3 @@
+theme: minima
+remote_theme: jekyll/minima@latest
 title: My Personal Porfolio
