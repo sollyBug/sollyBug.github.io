@@ -4,6 +4,8 @@
 
 # Hi there, I'm Lyle 👋
 
+| 230123872@mycput.ac.za | [LinkedIn Profile](https://www.linkedin.com/in/lyle-solomons-9ab855296 ) | Western Cape, Cape Town, 7100 |
+
 ## 🎯 Career Overview
 I am a 3rd year Application Development student at CPUT looking for a Work Integrated Learning opportunity where I can apply the technical skills I have developed through my studies in real world environments. I am eager to learn from industry professionals and grow as an ICT professional.
 
@@ -51,3 +53,18 @@ I am a 3rd year Application Development student at CPUT looking for a Work Integ
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## ⌯⌲ References
+1. 👤 **Bhadra Ranchod**
+   - Company: Cape Peninsula University of Technology
+   - Contact: 082 495 9912
+   - Email: ranchodb@cput.ac.za
+
+2. 👤 **Richard Maliwata**
+   - Company: Cape Peninsula University of Technology
+   - Contact: 071 077 9922
+   - Email: maliwatur@cput.ac.za
+  
+## 🗂️ Supporting documents
+[View CV and Academin Record](230123872_CV_Academic_ID.pdf)
+[View Mock Interview]()
