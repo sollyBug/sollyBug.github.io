@@ -1,3 +1,2 @@
-theme: minima
-remote_theme: jekyll/minima@latest
-title: My Personal Porfolio
+theme: jekyll-theme-merlot
+title: My Personal Portfolio
