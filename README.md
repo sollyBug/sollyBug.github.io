@@ -8,11 +8,10 @@
 I am a 3rd year Application Development student at CPUT looking for a Work Integrated Learning opportunity where I can apply the technical skills I have developed through my studies in real world environments. I am eager to learn from industry professionals and grow as an ICT professional.
 
 ## 📚 Education
-| Institution | Qualification | Year |
-|-------------|---------------|------|
-| LEAP Science and Maths School | National Senior Certificate | 2020 |
-| Cape Peninsula University of Technology | Higher Certificate in ICT (Cum Laude) | 2023 |
-| Cape Peninsula University of Technology | Diploma in Application Development | 2024–Present |
+- LEAP Science and Maths School | National Senior Certificate | ![Static Badge](https://img.shields.io/badge/2020-orange?style=plastic)
+- Cape Peninsula University of Technology | Higher Certificate in ICT (Cum Laude) | ![Static Badge](https://img.shields.io/badge/2023-blue?style=plastic)
+- Cape Peninsula University of Technology | Diploma in Application Development | ![Static Badge](https://img.shields.io/badge/Present-red?style=plastic&label=2024)
+
 
 ## 💻 Academic Projects
 ### Student Management System – Java Application | 2025
