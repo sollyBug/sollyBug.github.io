@@ -1,5 +1,9 @@
-![My Image](Me2.png)
-# Hi there, I'm Lyle👋
+<p>
+  <img src="Me2.png" width="200"/>
+</p>
+
+# Hi there, I'm Lyle 👋
+
 ## 🎯 Career Overview
 I am a 3rd year Application Development student at CPUT looking for a Work Integrated Learning opportunity where I can apply the technical skills I have developed through my studies in real world environments. I am eager to learn from industry professionals and grow as an ICT professional.
 
