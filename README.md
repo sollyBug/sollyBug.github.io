@@ -2,7 +2,7 @@
   <img src="Me2.png" width="200"/>
 </p>
 
-# Hi there, I'm Lyle 👋
+# Hi there, I'm Lyle Solomons👋
 
 | 230123872@mycput.ac.za | [LinkedIn Profile](https://www.linkedin.com/in/lyle-solomons-9ab855296 ) | Western Cape, Cape Town, 7100 |
 
@@ -16,25 +16,6 @@ I am a 3rd year Application Development student at CPUT looking for a Work Integ
 | Cape Peninsula University of Technology | Higher Certificate in ICT (Cum Laude) | ![Static Badge](https://img.shields.io/badge/2023-blue?style=plastic) |
 
 | Cape Peninsula University of Technology | Diploma in Application Development | ![Static Badge](https://img.shields.io/badge/Present-red?style=plastic&label=2024) |
-
-
-## 💻 Academic Projects
-### Student Management System – Java Application | 2025
-- Worked in a team to develop a desktop-based Student Management System.
-- Used Java and Java Swing to design and implement the graphical user interface.
-- Applied object-oriented programming principles (classes, methods, encapsulation).
-- Integrated SQL database functionality to store and retrieve structured data.
-- Implemented input validation and basic error handling to improve system reliability.
-
-**GitHub link:** [View Repository](https://github.com/sollyBug/Term4_ADP_Assignment.git)
-
-### NSFAS App Redesign – UI\UX Project | 2025
-- Completed a redesign proposal of the NSFAS mobile application as part of a university assignment.
-- Analysed usability and interface challenges in the existing application
-- Designed improved wireframes and high-fidelity prototypes using Figma
-- Focused on improving layout clarity, user flow, and accessibility
-
-**Figma Link:** [View Design](https://www.figma.com/design/2o459QPq1FgqfB1zrhvukq/Untitled?node-id=0-1&t=NA0VrRq1K0BuLqYw-1)
 
 ## 🔧 Technical Skills
 
@@ -68,4 +49,4 @@ I am a 3rd year Application Development student at CPUT looking for a Work Integ
 ## 🗂️ Supporting documents
 [View CV and Academin Record](230123872_CV_Academic_ID.pdf)
 
-[View Mock Interview]()
+[View Mock Interview](mock_interview.mp4)
