@@ -67,9 +67,8 @@ I am a 3rd year Application Development student at CPUT looking for a Work Integ
 ## 🗂️ Supporting documents
 [View CV and Academin Record](230123872_CV_Academic_ID.pdf)
 
-<a href="mock_interview.mp4" target="_blank">
   <video width="600" controls>
     <source src="mock_interview1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</a>
+
