@@ -65,7 +65,7 @@ I am a 3rd year Application Development student at CPUT looking for a Work Integ
    - Email: maliwatur@cput.ac.za
   
 ## 🗂️ Supporting documents
-[View CV and Academin Record](230123872_CV_Academic_ID.pdf)
+[View CV and Academic Record](230123872_CV_Academic_ID.pdf)
 
 Mock Interview
 
@@ -74,3 +74,43 @@ Mock Interview
     Your browser does not support the video tag.
   </video>
 
+# 🧠 Reflections (using the STAR method)
+
+## 👨‍💻 Coding in markdown
+### Situation
+I had an assignment to create a digital portfolio using GitHub and Markdown.
+
+### Task
+My task was to learn markdown's syntax and use it to code out my CV and display my mock interview video in a professional way.
+
+### Action
+I used the study guide provided by the lecturer and did my own research understand markdown's syntax better, which i used to organize my content clearly.
+
+### Result
+I created my portfolio which improved my ability to create documentation using markdown, which will be an important skill when working on GitHub projects in future
+
+## 🎙️ Mock interview
+### Situation
+I was required to create a mock interview as part of my interview readiness training.
+
+### Task
+I needed to present myself professionally and answer questions all questions confidently on a video as if it was a real interview.
+
+### Action
+I prepared answers to common interview questions that I took out of the study guide, and practiced speaking clearly before making my video.
+
+### Result
+This experience helped improve my communication skills and how to structure my responses more effectively which i will need in real world interviews.
+
+## 📄 GitHub pages
+### Situation
+I was required to publish my portfolio using GitHub Pages
+
+### Task
+My task was to deploy my GitHub repository as a live website and ensue that it can be viewed publicly.
+
+### Action
+I followed the rubric, ensured that I selected the correct branch with my README file, and ensured that my GitHub pages displayed online.
+
+### Result
+I published my GitHub portfolio as a live website. This experience helped me understand deployment using GitHub pages and how to make my work accessible to others online.
