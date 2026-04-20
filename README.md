@@ -84,7 +84,7 @@ I had an assignment to create a digital portfolio using GitHub and Markdown.
 My task was to learn markdown's syntax and use it to code out my CV and display my mock interview video in a professional way.
 
 ### Action
-I used the study guide provided by the lecturer and did my own research understand markdown's syntax better, which i used to organize my content clearly.
+I used the study guide provided by the lecturer and did my own research to understand markdown's syntax better, which i used to organize my content clearly.
 
 ### Result
 I created my portfolio which improved my ability to create documentation using markdown, which will be an important skill when working on GitHub projects in future
