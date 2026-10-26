@@ -496,6 +496,129 @@ In future, I want to spend more time understanding the possible impact of a tick
 
 ---
 
+<a id="sprint-backlog"></a>
+### 🔄 4. Sprint Backlog
+
+#### 4.1 Overview
+
+A Sprint Backlog is used in Scrum to keep track of work selected for a particular sprint. It helps developers understand what they're working towards and what needs to be completed during that period.
+
+At Onsight, I've gained experience working on tickets that move through development, testing, code review and integration. I've also contributed work across two code release cycles. Although a code release isn't necessarily the same as a Scrum sprint, these experiences have helped me understand how development work is planned and prepared for delivery. More recently, our team started introducing a four-day development cycle.
+
+#### 4.2 How My Development Work Progresses
+
+When I start a ticket, I first need to understand the reported issue. From there, I investigate the code, implement a solution and test the result. Once I'm satisfied that the change works, I submit it for review. The review process may identify something that needs to be adjusted, which means the task isn't always finished immediately after the first implementation. I've learned to think about the full process rather than only the time spent coding. The table below shows how I understand the main stages of my development work.
+
+| Activity | What Needs to Happen |
+|---|---|
+| Investigation | Understand and reproduce the reported issue. |
+| Development | Implement the required changes. |
+| Testing | Check that the correction works as expected. |
+| Pull Request | Submit the changes for review. |
+| Code Review | Respond to feedback and make adjustments if required. |
+| Integration | Confirm that the changes have been merged. |
+| Release | Confirm whether the changes have been included in a release. |
+
+This is a breakdown of my development workflow rather than an official Scrum sprint backlog.
+
+#### 4.3 My Experience with Code Releases
+
+So far, I've been involved in development work associated with two code releases. During these release cycles, I worked on assigned tickets, tested my changes and submitted pull requests for review. The experience helped me understand that completing a fix on my local machine doesn't mean the work is automatically ready for the application. There are still review and integration steps that need to happen. I also became more familiar with using Git and pull requests to manage changes.
+
+**Release 1 – Supporting Evidence**
+
+[INSERT EXISTING APPROVED MERGED PULL REQUEST SCREENSHOT]
+
+*This screenshot shows an example of my code being reviewed and merged during one of the release cycles.*
+
+**Release 2 – Supporting Evidence**
+
+[INSERT EXISTING APPROVED MERGED PULL REQUEST SCREENSHOT]
+
+*This screenshot demonstrates my continued involvement in the development and integration process.*
+
+[ADD VERIFIED RELEASE DATES OR TICKET REFERENCES IF AVAILABLE]
+
+#### 4.4 Our New Four-Day Development Cycle
+
+Our team recently started using a four-day development cycle.
+
+From what I've experienced so far, the first two days are focused on getting through as much development work as possible.
+
+The third day is used to review what has been completed and discuss any outstanding work, including how it relates to the current release.
+
+The cycle is still new, so I'm still getting used to how it works.
+
+At the time of writing, I haven't completed enough cycles to make a proper comparison between the new approach and the previous way of working.
+
+However, I think it will be useful to see how having a more structured development and review period affects the way I plan my own work.
+
+#### 4.5 Testing as Part of Development
+
+One thing I've become more aware of during my internship is how important testing is before a task can be considered ready.
+
+I've worked on issues where a fix appears to work under one condition but behaves differently under another.
+
+The blank-order issue was a good example of this.
+
+The problem depended on the state of the previous order, so I needed to test different scenarios rather than just checking whether I could create a new order.
+
+I also added Playwright regression coverage for that behaviour.
+
+Experiences like this have made me more careful about checking related functionality before submitting changes for review.
+
+#### 4.6 Supporting Evidence
+
+**Code Review and Merging**
+
+[INSERT EXISTING APPROVED PULL REQUEST OR MERGE SCREENSHOTS]
+
+*These screenshots demonstrate how my changes progress through review and integration.*
+
+**Testing**
+
+[INSERT EXISTING APPROVED PLAYWRIGHT TEST SCREENSHOT, IF AVAILABLE]
+
+*This screenshot shows an example of testing performed to verify an application change.*
+
+#### 4.7 STAR Reflection
+
+**Situation**
+
+During my internship, I worked on several development tickets that needed to be tested and reviewed before the changes could be integrated.
+
+I also had the opportunity to gain experience with the code-release process.
+
+**Task**
+
+My responsibility was to complete assigned work, test my changes and follow the team's review process.
+
+I also needed to understand when a task was actually ready to be considered complete.
+
+**Action**
+
+I investigated issues, implemented fixes, performed testing and submitted pull requests.
+
+I made adjustments where necessary and followed the progress of my changes through the development process.
+
+**Result**
+
+I've learned that finishing the code doesn't necessarily mean the task is finished.
+
+There may still be testing, code-review feedback or other changes required before the work can be merged or released.
+
+Being involved in two release cycles has helped me understand this process better.
+
+**What I Would Improve**
+
+One area I want to improve is how I plan the time needed for a task.
+
+I sometimes focus on the development work itself without fully considering how long testing or review changes might take.
+
+Going forward, I want to allow more time for these activities and keep better track of the work I planned compared with what I actually completed.
+
+---
+
 <a id="agile-logbook"></a>
 ### 📖 5. Agile Logbook
 
