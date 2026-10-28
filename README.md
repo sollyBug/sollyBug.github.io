@@ -1,4 +1,4 @@
-<p>
+<img width="1042" height="527" alt="image" src="https://github.com/user-attachments/assets/3d6d5c2a-f461-4d9c-9e6f-46c0310d17f7" /><p>
   <img src="Me2.png" width="200"/>
 </p>
 
@@ -214,13 +214,13 @@ Although these are not taken from a formal team charter, they reflect the expect
 
 **Evidence 1 – Code Review**
 
-[INSERT EXISTING APPROVED OR REDACTED PULL REQUEST SCREENSHOT]
+<img src="prp.png" width="200"/>
 
 *This screenshot shows an example of my work going through the code-review process. It demonstrates how development work is reviewed before changes are integrated.*
 
 **Evidence 2 – Assigned Development Work**
 
-[INSERT EXISTING REDACTED TICKET SCREENSHOT, IF AVAILABLE]
+<img src="dev.png" width="200"/>
 
 *This screenshot shows an example of the development work assigned to me and how tasks are tracked.*
 
