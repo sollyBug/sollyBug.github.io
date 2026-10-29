@@ -526,7 +526,7 @@ So far, I've been involved in development work associated with two code releases
 
 **Release 1 – Supporting Evidence**
 
-<img src="work2.png" width="600"/>
+<img src="merge.png" width="600"/>
 
 *This screenshot shows an example of my code being reviewed and merged during one of the release cycles.*
 
@@ -557,14 +557,6 @@ The problem depended on the state of the previous order, so I needed to test dif
 I also added Playwright regression coverage for that behaviour.
 
 Experiences like this have made me more careful about checking related functionality before submitting changes for review.
-
-#### 4.6 Supporting Evidence
-
-**Code Review and Merging**
-
-<img src="merge.png" width="600"/>
-
-*These screenshots demonstrate my changes progress through reviews.*
 
 #### 4.7 STAR Reflection
 
@@ -626,7 +618,7 @@ I experienced and what I learned.
 
 **August WIL Report**
 
-![August WIL Report](agile-evidence/august-report.png)
+<img src="August.png" width="600"/>
 
 *Figure 1: My August WIL report documenting my first
 month of development activities and learning experiences.*
@@ -644,7 +636,7 @@ throughout the month.
 
 **September WIL Report**
 
-![September WIL Report](agile-evidence/september-report.png)
+<img src="September.png" width="600"/>
 
 *Figure 2: My September WIL report showing my development
 activities, testing experience, and progress.*
