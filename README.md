@@ -1,4 +1,4 @@
-<img width="1256" height="521" alt="image" src="https://github.com/user-attachments/assets/2608df0c-d07a-4d75-8f4e-c99b4625d0b6" />  <img src="Me2.png" width="200"/>
+<img src="Me2.png" width="200"/>
 </p>
 
 <h1>Lyle Solomons👋</h1>
@@ -298,7 +298,7 @@ After investigating the problem, I implemented a correction and tested whether t
 
 The customer-import issue was corrected, and I worked on the similar product-import problem afterward.
 
-[VERIFY FINAL PRODUCT-IMPORT REVIEW OR MERGE STATUS]
+<img src="check.png" width="600"/>
 
 #### 2.3 User Story 2 - Creating a Blank Order
 
@@ -526,17 +526,9 @@ So far, I've been involved in development work associated with two code releases
 
 **Release 1 – Supporting Evidence**
 
-[INSERT EXISTING APPROVED MERGED PULL REQUEST SCREENSHOT]
+<img src="work2.png" width="600"/>
 
 *This screenshot shows an example of my code being reviewed and merged during one of the release cycles.*
-
-**Release 2 – Supporting Evidence**
-
-[INSERT EXISTING APPROVED MERGED PULL REQUEST SCREENSHOT]
-
-*This screenshot demonstrates my continued involvement in the development and integration process.*
-
-[ADD VERIFIED RELEASE DATES OR TICKET REFERENCES IF AVAILABLE]
 
 #### 4.4 Our New Four-Day Development Cycle
 
@@ -570,15 +562,9 @@ Experiences like this have made me more careful about checking related functiona
 
 **Code Review and Merging**
 
-[INSERT EXISTING APPROVED PULL REQUEST OR MERGE SCREENSHOTS]
+<img src="merge.png" width="600"/>
 
-*These screenshots demonstrate how my changes progress through review and integration.*
-
-**Testing**
-
-[INSERT EXISTING APPROVED PLAYWRIGHT TEST SCREENSHOT, IF AVAILABLE]
-
-*This screenshot shows an example of testing performed to verify an application change.*
+*These screenshots demonstrate my changes progress through reviews.*
 
 #### 4.7 STAR Reflection
 
