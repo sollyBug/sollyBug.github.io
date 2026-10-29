@@ -1,5 +1,4 @@
 <img src="Me2.png" width="200"/>
-</p>
 
 <h1>Lyle Solomons👋</h1>
 <p><strong>Application Development Student | Software Developer Intern</strong></p>
