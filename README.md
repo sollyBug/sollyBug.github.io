@@ -1,5 +1,4 @@
-<img width="1042" height="527" alt="image" src="https://github.com/user-attachments/assets/3d6d5c2a-f461-4d9c-9e6f-46c0310d17f7" /><p>
-  <img src="Me2.png" width="200"/>
+<img width="1256" height="521" alt="image" src="https://github.com/user-attachments/assets/2608df0c-d07a-4d75-8f4e-c99b4625d0b6" />  <img src="Me2.png" width="200"/>
 </p>
 
 <h1>Lyle Solomons👋</h1>
@@ -214,13 +213,13 @@ Although these are not taken from a formal team charter, they reflect the expect
 
 **Evidence 1 – Code Review**
 
-<img src="prp.png" width="200"/>
+<img src="prp.png" width="600"/>
 
 *This screenshot shows an example of my work going through the code-review process. It demonstrates how development work is reviewed before changes are integrated.*
 
 **Evidence 2 – Assigned Development Work**
 
-<img src="dev.png" width="200"/>
+<img src="dev.png" width="600"/>
 
 *This screenshot shows an example of the development work assigned to me and how tasks are tracked.*
 
@@ -332,15 +331,15 @@ Another issue I worked on involved creating blank orders. The application wasn't
 
 **Evidence 1 – Development Ticket**
 
-[INSERT EXISTING REDACTED TICKET SCREENSHOT]
+<img src="original.png" width="600"/>
 
 *This screenshot shows the original issue I was assigned and the expected application behaviour.*
 
 **Evidence 2 – Testing or Pull Request**
 
-[INSERT EXISTING APPROVED TEST OR PULL REQUEST SCREENSHOT]
+<img src="Tests.png" width="600"/>
 
-*This evidence shows how the changes were tested or submitted for review.*
+*This evidence shows how the changes were tested.*
 
 #### 2.5 STAR Reflection
 
@@ -444,13 +443,13 @@ This gave me a practical example of how new work can be identified while working
 
 **My Assigned Tickets**
 
-[INSERT REDACTED SCREENSHOT OF YOUR TICKET BOARD FILTERED TO YOURSELF]
+<img src="dev.png" width="600"/>
 
 *This screenshot shows some of the development work assigned to me and how the tickets are tracked.*
 
 **Related Customer and Product Import Issues**
 
-[INSERT EXISTING REDACTED TICKET SCREENSHOTS, IF AVAILABLE]
+<img src="new2.png" width="600"/>
 
 *These tickets show how investigating one issue led to identifying another related problem.*
 
